@@ -118,7 +118,7 @@
     }
 
 
-    @media (max-width: 1000px) {
+    @media (max-width: 900px) {
       h1.top {
       text-align: right;
       margin-right: 12%;
