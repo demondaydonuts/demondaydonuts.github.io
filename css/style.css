@@ -143,8 +143,8 @@
       margin-top: -10px;
       margin-bottom: -10px;
       font-family: 'Roboto', sans-serif;
-      font-weight: 350;
-      font-size: 23px;
+      font-weight: normal;
+      font-size: 18px;
     }
 
     h3 {
@@ -153,8 +153,8 @@
       margin-top: -10px;
       margin-bottom: -10px;
       font-family: 'Roboto', sans-serif;
-      font-weight: 300;
-      font-size: 22px;
+      font-weight: normal;
+      font-size: 18px;
       word-spacing: 8px;
     }
 
