@@ -431,8 +431,8 @@ a.nav {
   a.nav {
     color: rgba(0,0,0,1);
     font-family: 'Roboto', sans-serif;
-    font-weight: 300;
-    font-size: 20px;
+    font-weight: normal;
+    font-size: x-large;
 
   }
 
