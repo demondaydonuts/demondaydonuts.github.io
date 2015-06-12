@@ -3,6 +3,215 @@
 @import url('font-awesome.min.css');
 
 
+@media only screen (-webkit-min-device-pixel-ratio: 2) {
+  h1.top {
+    text-align: right;
+    margin-right: 12%;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 1200;
+    font-size: 65px;
+  }
+
+  h1.bottom {
+    text-align: right;
+    margin-right: 12%;
+    margin-top: -70px;
+    margin-bottom: -10px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 1200;
+    font-size: 65px;
+  }
+
+  h2 {
+    text-align: right;
+    margin-right: 12%;
+    margin-top: -10px;
+    margin-bottom: -10px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 145%;
+  }
+
+  h3 {
+    text-align: right;
+    margin-right: 12%;
+    margin-top: -10px;
+    margin-bottom: -10px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+    font-size: 130%;
+    word-spacing: 8px;
+  }
+
+  div.hr {
+    border: 0;
+    height: 5px;
+    background: #000000;
+    width: 76%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  div.hr2 {
+    border: 0;
+    height: 2px;
+    background: #000000;
+    width: 76%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  p {
+    width: 76%;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Roboto Light', sans-serif;
+    font-weight: lighter;
+    font-size: 120%;
+  }
+
+
+  b {
+    color: rgba(20,20,20,1);
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+    font-size: 110%;
+  }
+
+  a {
+    color: rgba(119,167,107,0.8);
+    -moz-transition: color .25s ease-in-out;
+    -webkit-transition: color .25s ease-in-out;
+    -o-transition: color .25s ease-in-out;
+    -ms-transition: color .25s ease-in-out;
+    transition: color .25s ease-in-out;
+  }
+
+  a:hover
+  {
+    color: rgba(84,132,72,1);
+    -moz-transition: color .25s ease-in-out;
+    -webkit-transition: color .25s ease-in-out;
+    -o-transition: color .25s ease-in-out;
+    -ms-transition: color .25s ease-in-out;
+    transition: color .25s ease-in-out;
+  }
+
+  a.nav {
+    color: rgba(0,0,0,1);
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+
+  }
+
+}
+
+
+@media only screen (-webkit-min-device-pixel-ratio: 3) {
+  h1.top {
+    text-align: right;
+    margin-right: 12%;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 1200;
+    font-size: 65px;
+  }
+
+  h1.bottom {
+    text-align: right;
+    margin-right: 12%;
+    margin-top: -70px;
+    margin-bottom: -10px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 1200;
+    font-size: 65px;
+  }
+
+  h2 {
+    text-align: right;
+    margin-right: 12%;
+    margin-top: -10px;
+    margin-bottom: -10px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 145%;
+  }
+
+  h3 {
+    text-align: right;
+    margin-right: 12%;
+    margin-top: -10px;
+    margin-bottom: -10px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+    font-size: 130%;
+    word-spacing: 8px;
+  }
+
+  div.hr {
+    border: 0;
+    height: 5px;
+    background: #000000;
+    width: 76%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  div.hr2 {
+    border: 0;
+    height: 2px;
+    background: #000000;
+    width: 76%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  p {
+    width: 76%;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Roboto Light', sans-serif;
+    font-weight: lighter;
+    font-size: 120%;
+  }
+
+
+  b {
+    color: rgba(20,20,20,1);
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+    font-size: 110%;
+  }
+
+  a {
+    color: rgba(119,167,107,0.8);
+    -moz-transition: color .25s ease-in-out;
+    -webkit-transition: color .25s ease-in-out;
+    -o-transition: color .25s ease-in-out;
+    -ms-transition: color .25s ease-in-out;
+    transition: color .25s ease-in-out;
+  }
+
+  a:hover
+  {
+    color: rgba(84,132,72,1);
+    -moz-transition: color .25s ease-in-out;
+    -webkit-transition: color .25s ease-in-out;
+    -o-transition: color .25s ease-in-out;
+    -ms-transition: color .25s ease-in-out;
+    transition: color .25s ease-in-out;
+  }
+
+  a.nav {
+    color: rgba(0,0,0,1);
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+
+  }
+
+}
+
 /*********************************************************************************/
 /* Basic                                                                         */
 /*********************************************************************************/
@@ -122,7 +331,10 @@ a.nav {
 }
 
 
-@media (max-width: 1080px) {
+
+
+
+/*@media (max-width: 1080px) {
 
   h1.top {
     text-align: right;
@@ -226,3 +438,4 @@ a.nav {
   }
 
 }
+*/
