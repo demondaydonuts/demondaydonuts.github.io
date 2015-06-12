@@ -193,9 +193,9 @@ a.nav {
 
   b {
     color: rgba(85,85,85,1);
-    font-family: 'Roboto Light', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: normal;
-    font-size: 18px;
+    font-size: 110%;
   }
 
   a {
