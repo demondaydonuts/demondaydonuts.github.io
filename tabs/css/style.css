@@ -74,6 +74,15 @@
       margin-right: auto;
     }
 
+    div.footer {
+      border: 0;
+      height: 70px;
+      background: #ffffff;
+      width: 56%;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
     p {
       width: 56%;
       margin-left: auto;
