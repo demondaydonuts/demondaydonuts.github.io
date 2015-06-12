@@ -3,7 +3,7 @@
 @import url('font-awesome.min.css');
 
 
-@media only screen (device-width: 320px) and (device-height: 568px) and (-webkit-min-device-pixel-ratio: 2) {
+@media only screen (-webkit-min-device-pixel-ratio: 2) {
   h1.top {
     text-align: right;
     margin-right: 12%;
@@ -108,7 +108,7 @@
 }
 
 
-@media only screen (device-width: 360px) and (device-height: 640px) and (-webkit-min-device-pixel-ratio: 3) {
+@media only screen (-webkit-min-device-pixel-ratio: 3) {
   h1.top {
     text-align: right;
     margin-right: 12%;
