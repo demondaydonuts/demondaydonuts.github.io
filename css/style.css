@@ -291,10 +291,17 @@ div.footer {
   margin-right: auto;
 }
 
-p {
+#wrapper {
+/*  background-color: rgb(245,245,245);*/
   width: 56%;
   margin-left: auto;
   margin-right: auto;
+}
+
+p {
+  /*width: 56%;
+  margin-left: auto;
+  margin-right: auto;*/
   font-family: 'Roboto Light', sans-serif;
   font-weight: lighter;
   font-size: large;
@@ -392,10 +399,26 @@ a.nav {
     margin-right: auto;
   }
 
-  p {
+  div.footer {
+    border: 0;
+    height: 70px;
+    background: #ffffff;
+    width: 56%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #wrapper {
+/*    background-color: rgb(245,245,245);*/
     width: 76%;
     margin-left: auto;
     margin-right: auto;
+  }
+
+  p {
+    /*width: 76%;
+    margin-left: auto;
+    margin-right: auto;*/
     font-family: 'Roboto Light', sans-serif;
     font-weight: lighter;
     font-size: large;
