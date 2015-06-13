@@ -415,6 +415,11 @@ a.nav {
     margin-right: auto;
   }
 
+  td.text {
+    padding-left: 50px;
+
+  }
+
   p {
     /*width: 76%;
     margin-left: auto;
