@@ -336,6 +336,10 @@ a.nav {
   color: rgba(0,0,0,1);
 }
 
+/*td {
+  width: 28%;
+}*/
+
 
 
 
@@ -415,11 +419,6 @@ a.nav {
     margin-right: auto;
   }
 
-  td.text {
-    padding-left: 50px;
-
-  }
-
   p {
     /*width: 76%;
     margin-left: auto;
@@ -463,5 +462,9 @@ a.nav {
     font-size: x-large;
 
   }
+
+  /*td {
+    width: 50%;
+  }*/
 
 }
