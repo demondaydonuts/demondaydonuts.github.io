@@ -340,7 +340,7 @@ a.nav {
     margin-right: 12%;
     font-family: 'Roboto', sans-serif;
     font-weight: 1200;
-    font-size: 65px;
+    font-size: 270%;
   }
 
   h1.bottom {
@@ -350,7 +350,7 @@ a.nav {
     margin-bottom: -10px;
     font-family: 'Roboto', sans-serif;
     font-weight: 1200;
-    font-size: 65px;
+    font-size: 270%;
   }
 
   h2 {
