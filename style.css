@@ -74,13 +74,9 @@ p .date {
 .thumbnail {
   background-color: #F5F5F5;
   border: none;
-  max-width: 190px;
+  max-width: 200px;
   outline-width: 10px;
   margin-left: 20px;
-}
-
-.projImage {
-  max-width: 50px;
 }
 
 
